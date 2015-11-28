@@ -16,3 +16,4 @@ Some notes on HTML boilerplate
 - [audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) <- might be out of date
 - [favicons](https://www.npmjs.com/package/favicons): favicon generator generator 
 - [Specifying a Webpage Icon for Web Clip](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+- [css-tricks.com/favicon-quiz](https://css-tricks.com/favicon-quiz/)
