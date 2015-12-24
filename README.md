@@ -17,3 +17,5 @@ Some notes on HTML boilerplate
 - [favicons](https://www.npmjs.com/package/favicons): favicon generator generator 
 - [Specifying a Webpage Icon for Web Clip](https://developer.apple.com/library/mac/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 - [css-tricks.com/favicon-quiz](https://css-tricks.com/favicon-quiz/)
+- [pinned tab icons safari](https://developer.apple.com/library/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html#//apple_ref/doc/uid/TP40014305-CH9-SW20)
+- [more on pinned](http://blog.iconfactory.com/2015/11/the-new-favicon/)
